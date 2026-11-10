@@ -1,0 +1,1 @@
+Approved earlier artifact collection through Vaelorien’s Veil Needle. Upload index.html and the images folder to the root of a GitHub Pages repository. Displays four random images, reshuffled every two minutes. This is separate from the Quiet Ledger widget.
